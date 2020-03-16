@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FKNotepad/v16
+/FKNotepad/obj
+/FKNotepad/bin
